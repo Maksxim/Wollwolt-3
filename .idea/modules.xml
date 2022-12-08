@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SpringAOP/SpringAOP.iml" filepath="$PROJECT_DIR$/SpringAOP/SpringAOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBeanAnatation/SpringBeanAnatation.iml" filepath="$PROJECT_DIR$/SpringBeanAnatation/SpringBeanAnatation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBeanXML/SpringBeanXML.iml" filepath="$PROJECT_DIR$/SpringBeanXML/SpringBeanXML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMvc/SpringMvc.iml" filepath="$PROJECT_DIR$/SpringMvc/SpringMvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringMvcValidationErrors/SpringMvc (1).iml" filepath="$PROJECT_DIR$/SpringMvcValidationErrors/SpringMvc (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wollwolt-3.iml" filepath="$PROJECT_DIR$/Wollwolt-3.iml" />
+    </modules>
+  </component>
+</project>
