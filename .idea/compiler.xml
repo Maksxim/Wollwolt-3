@@ -9,9 +9,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="SpringBeanXML" />
         <module name="SpringAOP" />
-        <module name="SpringMvc" />
-        <module name="SpringMvc (1)" />
         <module name="SpringBeanAnatation" />
+        <module name="SpringMvc" />
+        <module name="SpringProductImage" />
+        <module name="SpringThymeleaf" />
+        <module name="SpringRestSwagger" />
+        <module name="SpringMvcValidationErrors" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,7 +22,10 @@
       <module name="SpringBeanAnatation" target="17" />
       <module name="SpringBeanXML" target="17" />
       <module name="SpringMvc" target="17" />
-      <module name="SpringMvc (1)" target="17" />
+      <module name="SpringMvcValidationErrors" target="17" />
+      <module name="SpringProductImage" target="17" />
+      <module name="SpringRestSwagger" target="17" />
+      <module name="SpringThymeleaf" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -28,7 +34,10 @@
       <module name="SpringBeanAnatation" options="-parameters" />
       <module name="SpringBeanXML" options="-parameters" />
       <module name="SpringMvc" options="-parameters" />
-      <module name="SpringMvc (1)" options="-parameters" />
+      <module name="SpringMvcValidationErrors" options="-parameters" />
+      <module name="SpringProductImage" options="-parameters" />
+      <module name="SpringRestSwagger" options="-parameters" />
+      <module name="SpringThymeleaf" options="-parameters" />
     </option>
   </component>
 </project>

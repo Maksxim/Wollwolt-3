@@ -8,6 +8,9 @@
         <option value="$PROJECT_DIR$/SpringAOP/pom.xml" />
         <option value="$PROJECT_DIR$/SpringMvc/pom.xml" />
         <option value="$PROJECT_DIR$/SpringMvcValidationErrors/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringThymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringRestSwagger/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringProductImage/pom.xml" />
       </list>
     </option>
   </component>
